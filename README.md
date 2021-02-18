@@ -1,4 +1,9 @@
 # beatpoker_publish
+如何通过本官网安装Beat Poker 应用  
+1 点击ViewCode 展开项目文件  
+2 点击beatpoker/last/game,点击apk文件下载  
+3 安装完毕后安装  
+
 
 对本软件有任何意见可以通过Issues 提交，本人会及时处理。  
 提交的Issues主要分2种：  
@@ -28,3 +33,44 @@ Button  :2号位
   
 2 其他意见  
 xxxxx  
+
+    
+     
+     
+     
+     
+      
+How to install the Beat Poker app through this official website  
+1 Click ViewCode to expand the project file  
+2 Click beatpoker/last/game, click the apk file to download  
+3 Install after installation  
+
+
+Any comments on this software can be submitted through Issues, and I will deal with it in time.  
+There are two main types of Issues submitted:  
+  
+1 Submit robot strategy  
+Submit comments on robot strategy, it is recommended to submit in the following format:  
+Round: xx  
+Community cards: xx, xx, xx  
+Table position: xx, xx  
+Button: position  
+Player hand: xx  
+Player actions: xx  
+Robot hand: xx  
+Expected robot action: xx  
+Other supplements: xx  
+  
+Such as:    
+Round: flop  
+Community cards: Heart A, Heart K, Heart Q  
+Table position: position 1-player, position 2-robot  
+Button: Position 2  
+Player's hand: Club A, Diamond Q  
+Player actions: 3 Bet  
+Robot Hand: J of Hearts, 9 of Spades  
+Expected robot action: Allin  
+Other supplements: the player raises in the front position, after the robot reraise, the player can still 3Bet, the robot red draw can block the whole family  
+  
+2 Other opinions  
+xxxxx        
