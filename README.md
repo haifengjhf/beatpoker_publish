@@ -2,9 +2,15 @@
 如何通过本官网安装Beat Poker 应用  
 1 点击ViewCode 展开项目文件  
 2 点击beatpoker/last/game,点击apk文件下载  
-3 安装完毕后安装  
-
-
+3 下载后完毕后安装  
+  
+  
+    
+    
+    
+    
+    
+    
 对本软件有任何意见可以通过Issues 提交，本人会及时处理。  
 提交的Issues主要分2种：  
   
