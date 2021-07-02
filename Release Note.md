@@ -31,3 +31,8 @@ Release Note:
 4 解决crash问题  
 5 优化广告   
   
+  
+1.4.5  
+1 解决应用crash问题  
+2 优化广告  
+  
