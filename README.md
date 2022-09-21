@@ -4,8 +4,9 @@
      
   
 欢迎加入QQ群635309143一起讨论德州    
-<img src="https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/IMG_2634.JPG"/>
-   
+![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/IMG_2634.JPG)
+  
+ 
   
   
   
