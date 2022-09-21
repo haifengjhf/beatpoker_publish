@@ -1,11 +1,8 @@
-# beatpoker_publish
-如何通过本官网安装Beat Poker 应用  
-1 点击ViewCode 展开项目文件  
-2 点击beatpoker/last/game,点击apk文件下载  
-3 下载后完毕后安装  
+# beatpoker_publish  
+欢迎加入QQ群635309143一起讨论德州    
   
-  
-  
+本人微信号:qq749438227，QQ:12260723    
+
   
   
   
