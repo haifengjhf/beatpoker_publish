@@ -6,7 +6,7 @@ QQ:12260723
   
   
 Facabook Group:  
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.JPG)  
+![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)  
   
       
 QQ Group:  
