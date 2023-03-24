@@ -1,18 +1,18 @@
 # beatpoker_publish  
 
-Facebook group: www.facebook.com/groups/1014751592830853
-Wechat:jhf12260723
+Facebook group: www.facebook.com/groups/1014751592830853  
+Wechat:jhf12260723  
 QQ:12260723  
-
-
-Facabook Group:
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.JPG)
-
-    
-QQ Group:
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)
   
- 
+  
+Facabook Group:  
+![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.JPG)  
+  
+      
+QQ Group:  
+![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)  
+  
+  
   
 How to install the Beat Poker app through this official website  
 1 Click ViewCode to expand the project file  
