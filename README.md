@@ -3,14 +3,6 @@
 脸书群组：www.facebook.com/groups/1014751592830853  
 本人微信：_12260723  
 本人QQ:12260723  
-    
-    
-脸书群组：  
-![图片](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)
-  
-      
-QQ群： 
-![图片](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)
   
   
   
@@ -48,19 +40,22 @@ QQ群：
 xxxxx  
   
 
+
+脸书群组：  
+![图片](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)
+  
+      
+QQ群： 
+![图片](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)
+
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Facebook group: www.facebook.com/groups/1014751592830853  
 Wechat:_12260723    
 QQ:12260723  
   
-  
-Facabook Group:  
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)  
-  
-      
-QQ Group:  
-![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)  
+ 
   
   
   
@@ -96,3 +91,11 @@ Other supplements: the player raises in the front position, after the robot rera
   
 2 Other opinions  
 xxxxx        
+
+
+Facabook Group:  
+![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/facebook_group.jpg)  
+  
+      
+QQ Group:  
+![image](https://github.com/haifengjhf/beatpoker_publish/blob/main/beatpoker/qq_group.JPG)  
