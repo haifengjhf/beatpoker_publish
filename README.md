@@ -14,10 +14,8 @@ QQ Group:
   
   
   
-How to install the Beat Poker app through this official website  
-1 Click ViewCode to expand the project file  
-2 Click beatpoker/last/game, click the apk file to download  
-3 Install after installation  
+How to install the Beat Poker app 
+1 download last version https://github.com/haifengjhf/beatpoker_publish/releases/
 
 
 Any comments on this software can be submitted through Issues, and I will deal with it in time.  
